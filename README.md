@@ -1,2 +1,2 @@
-# Merge-IIS-Logs
-Merge IIS logs into one big file
+### Merge-IIS-Logs
+#####Takes IIS logs from a directory or directories and merges them into one file
